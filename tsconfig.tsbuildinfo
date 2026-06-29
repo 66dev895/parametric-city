@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/city/generator.ts","./src/city/materials.ts","./src/city/types.ts","./src/components/building.tsx","./src/components/cityscene.tsx","./src/components/parampanel.tsx","./src/components/roadgrid.tsx","./src/utils/random.ts"],"version":"5.9.3"}
